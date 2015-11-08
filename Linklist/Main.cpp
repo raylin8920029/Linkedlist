@@ -2,7 +2,7 @@
 
 int main(void)
 {	
-	const char* const pszAuthorName = "RAY";
+	const char* const pszAuthorName = "Try";
 	const char * pszTest1 = "1";
 	char szTest[] = "123";
 	char cTest = 'a';

@@ -24,8 +24,8 @@ int main(void)
 	printf("Test class counter is %i \n", CTestClass::m_iCounter);
 
 
-	int iNumA = 10;
-	int iNumB = 7;
+	//int iNumA = 10;
+	//int iNumB = 7;
 	double dNumA = 11.12;
 	double dNumB = 31.99;
 
